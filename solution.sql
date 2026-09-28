@@ -1,1 +1,5 @@
-
+CREATE DATABASE Deepakraj_DB;
+USE Deepakraj_DB;
+CREATE TABLE DepT(DepTID numeric(5) PRIMARY KEY, DepTName VARCHAR(20));
+DESC DepT;
+SELECT*FROM Deepakraj_DB;
